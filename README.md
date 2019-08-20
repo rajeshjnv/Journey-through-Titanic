@@ -1,4 +1,4 @@
-# Journey-through-Titanic
+# Titanic Survival Predction
 
 • Analysed what factors made people more likely to survive. 
 • Men have a high probability of survival when they are between 18 and 30 years old, 
